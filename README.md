@@ -25,3 +25,5 @@ Simple example usage
 ```
 python twitterbot.py
 ```
+![alt text](https://github.com/CyberRoute/cloudtweetbot/blob/master/img/twitterbot.gif)
+
